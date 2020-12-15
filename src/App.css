@@ -12,6 +12,17 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.center {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin: 5px;
+}
+#success {
+  color: green;
+  font-size: medium;
+}
 #labels, #text-box {
   display: flex;
   justify-content: space-between;
